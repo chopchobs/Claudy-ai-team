@@ -54,7 +54,7 @@ claudy-ai-team/
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/chopchobs/Claudy-ai-team.git
    cd claudy-ai-team
    ```
 
